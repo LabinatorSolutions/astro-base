@@ -78,7 +78,7 @@ A minimal, modern starter template for building fast websites with Astro. This t
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 22.23.4 or later (22 LTS). Earlier 22.x releases are affected by the October 2026 Node.js security advisories.
 - npm, pnpm, or yarn
 
 ### Installation
